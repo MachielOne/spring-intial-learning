@@ -1,7 +1,7 @@
 package org.homeboy.spring.controllers;
 
 import io.swagger.annotations.*;
-import org.homeboy.spring.Repository.UserRepository;
+import org.homeboy.spring.repository.UserRepository;
 import org.homeboy.spring.domains.User;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;

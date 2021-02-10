@@ -1,6 +1,6 @@
 package org.homeboy.spring.config;
 
-import org.homeboy.spring.Repository.UserRepository;
+import org.homeboy.spring.repository.UserRepository;
 import org.homeboy.spring.domains.User;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
